@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790088114470",
+    "firebase_url": "https://gamechat-6a3d5.firebaseio.com",
+    "project_id": "gamechat-6a3d5",
+    "storage_bucket": "gamechat-6a3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790088114470:android:c74fc9b0cba9899d",
+        "android_client_info": {
+          "package_name": "com.example.gamechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790088114470-3hfmun693ak5rfos024k7vjvebvi587q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamechat",
+            "certificate_hash": "25b94a8a4fec1ac5e7e5773dfe3e604dba0c3ec2"
+          }
+        },
+        {
+          "client_id": "790088114470-ulj1au85216vn1rmij21gebal818c7dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLxfaTO8bhCTIeT6YeR3Ket3DCo4dwU3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790088114470-ulj1au85216vn1rmij21gebal818c7dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
